@@ -1,0 +1,695 @@
+
+Level-13
+
+1. Bowman’s Capsule’ works as a part of the functional unit of which among the following human physiological system?
+ Circulatory System 
+ Respiratory System
+ Excretory System 
+ Reproductive System
+C.A: c
+
+2. Plants which are adapted to grow in soils containing high concentration of salt are known as:
+ Xerophytes
+ Mesophytes
+ Halophytes
+ Thallop
+C.A: c
+
+3. Which among the following have a ‘mixed heart’ ,that is the heart in which the oxygenated and the deoxygenated blood is mixed?
+ Birds
+ Fishes
+ Reptiles
+ Nematodes
+ C.A: d
+
+4.  In banking, ‘ATM’ stands for
+
+a. Asynchronous transfer mode
+b. Any time money
+c. Automated teller machine
+d. Automatic transaction machine
+C.A : c
+
+ 
+
+5. Which of the following is not a viral disease?
+
+a. Herpes
+b. Epilepsy
+c. Chicken pox
+d. HIV / AIDS
+(Ans:b)
+
+ 
+
+6. The members of ‘BRICS’ are
+
+a. Brazil, Russia, India, China, South Africa
+b. Belarus, Russia, India, China, South Africa
+c. Brazil, Romania, India, China, South Africa
+d. Brazil, Russia, India, China, Saudi Arabia
+(Ans:a)
+
+ 
+
+7. The term ‘FTZ’ stands for
+
+a. Fast track zone
+b. Free trade zone
+c. Foreign trading zone
+d. Fast trade zone
+(Ans:b)
+
+ 
+
+8. Which of the following place is called as ‘Land of midnight sun’?
+
+a. Norway
+b. Denmark
+c. Japan
+d. Finland
+(Ans:a)
+
+ 
+
+9. One kilobyte consists of ____ bytes
+
+a. 500
+b. 512
+c. 1000
+d. 1024
+(Ans:d)
+
+10. The filament of Electric bulb is made of
+Chrome
+Tungsten
+Copper
+Aluminium
+(Ans:b)
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       
+ 
+
+
+
+
+
+
+
+
+
+Level-13
+
+Which of the following is largest producer of Bauxite?
+Australia
+Brazil
+India
+Russia
+(Ans:a)
+The unit of sound is
+Hertz
+Decibel
+Ohm
+Pascal
+(Ans:b)
+ 
+The following metal is a liquid.
+a. Na
+b. K
+c. Ca
+d. Hg
+(Ans:d)
+ 
+Which of the following country won the FIFA world cup 2014?
+Brazil
+Argentina
+Germany
+Portugal
+(Ans:c)
+ 
+Which of the following agency regulates International trade?
+IMF
+WTO
+c. UNESCO
+d. UNICEF
+(Ans:b)
+ 
+Davis cup is associated with
+Table tennis
+Lawn tennis
+Badminton
+Volleyball
+(Ans:b)
+ 
+World environment is celebrated on
+June 4
+June 5
+July 4
+July 5
+(Ans:b)
+Riyal is a currency of
+Kuwait
+Bahrain
+Iraq
+Saudi Arabia
+(Ans:d)
+ 
+The Headquarter of IAEA is situated in
+a.New York
+b.Vienna
+c.Paris
+d.Geneva
+(Ans:b)
+ The following are the fire tube boilers except
+a.Cochran
+b.Lancashire
+c.Locomotive
+d.Babcock and Wilcox
+(Ans:d)
+ 
+Level-14
+The following are the water tube boilers except
+a.Stirling
+b.Lancashire
+c.Yarrow
+d.Babcock and Wilcox
+(Ans:b)
+ 
+Which of the following is a low pressure boiler?
+a.Babcock and Wilcox
+b.Velox
+c.Lamont
+d.Cochran
+(Ans:d)
+ 
+In fire tube boilers, pressure is limited to
+a.16 bar
+b.32 bar
+c.48 bar
+d.64 bar
+(Ans:a)
+ 
+The following is an accessory of a boiler.
+a.Pressure gauge
+b.Safety valve
+c.Fusible plug
+d.Superheater
+(Ans:d)
+ 
+The following is a boiler mounting.
+a.Feed pump
+b.Water level gauge
+c.Economizer
+d.Superheater
+(Ans:b)
+ 
+The impurities are removed from boiler with the help of
+a.Safety valve
+b.Blow off cock
+c.Stop valve
+d. Fusible plug
+(Ans:b)
+ 
+The boiler consists of horizontal fire tubes is
+a.Cochran
+b.Cornish
+c.Babcock and Wilcox
+d.Stirling
+(Ans:a)
+ 
+The boiler commonly used in sugar mills is
+a.Cochran
+b.Cornish
+c.Lancashire
+d.Stirling
+(Ans:c)
+ 
+Which of the following is a bent tube boiler?
+a.Cochran
+b.Cornish
+c.Lancashire
+d.Stirling
+(Ans:d)
+ 
+The boiler works on a forced circulation is
+a.Cochran
+b.Lamont
+c.Lancashire
+d.Stirling
+(Ans:b)
+ 
+The following boiler makes use of pressurized combustion
+a.Velox
+b.Benson
+c.Loeffler
+d.Lamont
+(Ans:a)
+Level-15
+ 
+Which of the following is used to heat the feed water by using waste heat of flue gases?
+a.Air preheater
+b.Superheater
+c.Economizer
+d.Steam separator
+(Ans:c)
+ 
+__________ is generally placed after the economizer
+a.Air preheater
+b.Superheater
+c.Evaporator
+d.None of the above
+(Ans:a)
+ 
+ 
+ 
+ Who is known as the father of supercomputing?
+(A) David J. Brown(B) Gene Amdahl(C) Adam Dunkels(D) Seymour Cray
+Answer : d
+ Who created the C programming Language? 
+(A) Ken Thompson(B) Dennis Ritchie(C) Robin Milner(D) Frieder Nake
+View Answer: b
+ When NASSCOM (National Association of Software and Services Companies) was eastablished? 
+(A) 1988(B) 1882(C) 1881(D) 1887
+View Answer: a
+Who is known as the father of internet? 
+(A) Alan Perlis(B) Jean E. Sammet(C) Vint Cerf(D) Steve Lawrence
+View Answer: c
+ Which one is the first high level programming language? 
+(A) C(B) C++(C) COBOL(D) FORTRAN
+View Answer: d
+Which one is the first word processor application?
+(A) MS Word(B) Apple i Work(C) Sun StarOffice(D) WordStar
+View Answer: d
+ Which one is the current fastest Supercomputer in India? 
+(A) Aaditya(B) SAGA-220(C) SahasraT(D) HP Apollo 6000
+View Answer: c
+ India's first Super Computer PARAM 8000 was installed in?
+(A) 1988(B) 1989(C) 1990(D) 1991
+C.A : d
+Level-16
+1-Which of the following does the ‘West Wind Drift’ belong to?
+(A) Tidal occurrence
+(B) Wind system
+(C) Wave phenomenon
+(D) Ocean current
+(Ans: D)
+ 
+2-Which one of the following layers of the atmosphere contains water vapours and dust particles?
+(A) Ionosphere
+(B) Mesosphere
+(C) Stratosphere
+(D) Troposphere
+(Ans: D)
+ 
+3-Which of the following is a land locked country?
+(A) Cambodia
+(B) Laos
+(C) Thailand
+(D) Vietnam
+(Ans: B)
+ 
+4-Which of the following organisms has a role in converting nitrates to free nitrogen?
+(A) Pseudomonas
+(B) Nitrosomonas
+(C) Nitrobacter
+(D) Rhizobium
+(Ans: A)
+ 
+5-For which of these are green leafy vegetables rich sources?
+I- Vitamin E           	II-Vitamin B2                    	III-Vitamin E
+(A) I & II
+(B) II only
+(C) I & III
+(D) I, II & III
+(Ans: D)
+ 
+6-In human body Cowper’s gland is associated with
+(A) Circulatory system
+(B) Digestive system
+(C) Nervous system
+(D) Urino-genital system
+(Ans: D)
+ 
+7-Which type of light is effective for photosynthesis to occur?
+(A) Ultraviolet and Blue
+(B) Blue and Red
+(C) Green and Yellow
+(D) Blue and Green
+(Ans: B)
+ 
+8-Which one of the following terms for natural vegetation is associated with Siberia?
+(A) Selva
+(B) Taiga
+(C) Pampas
+(D) Savanna
+(Ans: B)
+ 
+9-Which one of the following enzymes can hydrolyse proteins in the stomach?
+(A) Trypsin
+(B) Pepsin
+(C) Lipase
+(D) Amylase
+(Ans: B)
+ 
+10-The following city is associated with the river Mekong?
+(A) Hong Kong
+(B) Phnom-Penh
+(C) Shanghai
+(D) Yangon
+(Ans: B)
+ 
+ 
+ 
+ 
+ 
+ 
+Level- 17
+1-Increasing the wavelength of visible light
+a.Shifts its color towards the red end of the spectrum
+b. Increases its brightness
+c.Causes it to grow dimmer
+d.Shifts its color towards the blue end of the spectrum
+(Ans: a)
+ 
+2-X-Rays was discovered by?
+a.Roentgen
+b.Henry Cavendish
+c.Ritter
+d.Marconi
+(Ans: a)
+ 
+3-For which of the following substances, resistance decreases with temperature?
+a.Copper
+b.Mercury
+c.Carbon
+d.Platinum
+(Ans: c)
+ 
+4-The unit of resistivity is
+a.Ohm
+b.Ohm/m
+c.Ohm-m
+d.Mho
+(Ans: c)
+ 
+5-A car is running at a speed of 15 km/hr while a similar car is moving at a speed of 30 km/hr. Their kinetic energies are in the ratio of?
+a.1:2
+b.2:1
+c.1:4
+d.4:1
+(Ans: c)
+ 
+6-Pressure at a certain depth in fresh water is P1 and at the same depth in sea water is P2. Then
+a.P1 = P2
+b.P1 > P2
+c.P1 < P2
+d.P1-P2 = Atmospheric pressure
+(Ans: c)
+ 
+7-What is the density of silver if its relative density is 10.8?
+a.10.8 x 102 g/cm3
+b.10.8 x 102 kg/m3
+c.10.8 x 103 kg/m3
+d.10.8 x 103 g/cm3
+(Ans: c)
+ 
+ 
+8-Which of the following has the highest refractive index?
+a.Glass
+b.Water
+c.Diamond
+d.Ruby
+(Ans: c)
+ 
+9-Nose bleeding may occur at high altitude because?
+a.The value of gravity decreases
+b.The atmospheric pressure decreases
+c.There are strong currents in the upper atmosphere
+d.The O2 content of the atmosphere decreases
+(Ans: d)
+ 
+10-F = ma is related to which order of Newton’s Law?
+a.1st Law
+b.2nd Law
+c.3rd law
+d.All of the above
+(Ans: b)
+ 
+ 
+ 
+ 
+ 
+ 
+Level-18
+11-In the human body, the blood enters the aorta of the circulatory system from the
+(A) Left atrium
+(B) Left ventricle
+(C) Right ventricle
+(D) Right atrium
+(Ans: B)
+ 
+12-The main pollinating agent in case of maize plant is
+(A) Wind
+(B) Birds
+(C) Insects
+(D) Rodents
+(Ans: A)
+ 
+13-Consider the following cities:
+I-Abadan   	II-Basra    	III-Cairo    	IV-Suez
+The sequence in which a person travelling from West to East almost along 30° N latitude will touch them is
+(A) III, IV, I, II
+(B) IV, III, II, I
+(C) III, IV, II, I
+(D) IV, III, I, II
+(Ans: C)
+ 
+14-Spiders and Scorpions belong to the same class of Arthropods as are
+(A) Beetles and Locusts
+(B) Crabs and Lobsters
+(C) Centipedes and Millipedes
+(D) Mites and Ticks
+(Ans: B)
+ 
+15-Which one of the following is NOT a Baltic state?
+(A) Belarus
+(B) Estonia
+(C) Latvia
+(D) Lithuania
+(Ans: A)
+ 
+16-Which one of the following basins experiences the convectional rainfall?
+(A) Amazon
+(B) Ganga
+(C) Hwang Ho
+(D) Mississippi
+(Ans: A)
+ 
+17-Which one of the following diseases is caused by the deficiency of vitamin B12 (Cobalamine)?
+(A) Anaemia
+(B) Beri-Beri
+(C) Pellagra
+(D) Xerophthalmia
+(Ans: A)
+ 
+18-Which one of the following planets is known as ‘morning star’ as well as ‘evening star’ because it is the first to appear in the evening and the last to disappear in the morning?
+(A) Jupiter
+(B) Mars
+(C) Mercury
+(D) Venus
+(Ans: D)
+ 
+19-Which one of the following plants is called the living fossil?
+(A) Cycas
+(B) Ginkgo
+(C) Taxus
+(D) Williamsonia
+(Ans: B)
+ 
+20-Who among the following tennis players does not represent France,
+(A) Amelie Mauresmo
+(B) Barbara Schett
+(C) Mary Pierce
+(D) Sandrine Testud
+(Ans: B)
+Level-19
+21-World Meteorological day is celebrated on
+(A) 28th February
+(B) 23rd March
+(C) 11th May
+(D) 17th May
+(Ans: B)
+ 
+22-The Headquarters of Asian Development Bank is at
+(A) Bangkok
+(B) Manila
+(C) Singapore
+(D) Tokyo
+(Ans: B)
+ 
+23-Which one of the following towns does not lie in the Mediterranean region?
+(A) Algiers
+(B) Barcelona
+(C) Sofia
+(D) Rome
+(Ans: C)
+ 
+24-Match List I and II and select the correct answer:
+List-I (Countries)
+List-II (Capitals)
+a. Albania
+1. Bratislava
+b. Croatia
+2. Skopje
+c. Macedonia
+3. Tirana
+d. Slovakia
+4. Zagreb
+(A) a-4, b-2, c-1, d-3
+(B) a-3, b-4, c-2, d-1
+(C) a-4, b-3, c-2, d-1
+(D) a-3, b-4, c-1, d-2
+(Ans: B)
+ 
+25-The Volta river project is located in
+(A) Nigeria
+(B) Sudan
+(C) Ghana
+(D) Republic of Congo
+(Ans: C)
+ 
+26-The concept of hierarchy of needs is associated with
+(A) Communication
+(B) Decision-making
+(C) Motivation
+(D) Policy formulation
+(Ans: C)
+ 
+27-Match list I with list II and select the correct answer:
+List-I (Grasslands)
+List-II (Countries)
+a. Veld
+1. Argentina
+b. Lianos
+2. Australia
+c. Downs
+3. South Africa
+d. Pampas
+4. Venezuela
+(A) a-3, b-4, c-2, d-1
+(B) a-4, b-3, c-1, d-2
+(C) a-3, b-4, c-1, d-2
+(D) a-4, b-3, c-2, d-1
+(Ans: A)
+ 
+28-Which of the following pairs in NOT correctly matched?
+(A) Becquerel: Radioactivity
+(B) Alexander Flemming: Penicillin
+(C) Louis Pasteur: Blood groups
+(D) William Harvey: Blood circulation
+(Ans: C)
+ 
+29-The branch of science dealing with the improvement of human race is called
+(A) Genealogy
+(B) Cloning
+(C) Eugenics
+(D) Euphenics
+(Ans: C)
+ 
+30-Which of the following volcanoes is called the light house of the Mediterranean?
+(A) Vesuvius
+(B) Stromboli
+(C) Etna
+(D) Vulcan
+(Ans: B)
+Level-20
+1-The calorific value of a fuel is expressed in a unit called
+a.Kilojoule per kg
+b.Kilojoule per Hour
+c.Joule per kg
+d.Joule per hour
+(Ans: a)
+ 
+2-Which of the following has highest calorific value?
+a.Wood
+b.Petrol
+c.Methane
+d.LPG
+(Ans: d)
+ 
+3-Incomplete combustion of carbon fuels produce
+a.Carbon dioxide
+b.Carbon Monoxide
+c.Carbon hydroxide
+d.All of the above
+(Ans: a)
+ 
+4-The large area of protected land for conservation of wild life, plant and animal resources and traditional life of the tribals living in the area is known as
+a.Sanctuary
+b.National Park
+c.Biosphere reserve
+d.All of the above
+(Ans: c)
+ 
+5-Pachmarhi Biosphere reserve in India consists of
+a.Satpura national park
+b.Bori wildlife sanctuary
+c.Pachmarhi sanctuary
+d.All of the above
+(Ans: d)
+ 
+6-Endemic species are those which are found
+a.In a particular area
+b.Near equator
+c.At north and south poles
+d.Everywhere in the world
+(Ans: a)
+ 
+7-An ecosystem consists of
+a.Living components
+b.Non-living components
+c.Both (a) and (b)
+d. none
+(Ans: c)
+ 
+8-Migratory birds fly to far away areas every year during a particular time because of climate change for
+a.Laying eggs
+b.Food
+c.Water
+d.All of the above
+(Ans: a)
+ 
+9-The basic structural unit of a living organism is
+a.Cell
+b.Atom
+c.Tissue
+d.Molecule
+(Ans: a)
+ 
+10-The jelly like substance present between the cell membrane and the nucleus is known as
+a.Cytoplasm
+b.Chromosomes
+c.Tissue
+d.None of the above
+(Ans: a)
+ 
+ 

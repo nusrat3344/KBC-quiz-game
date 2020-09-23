@@ -1,0 +1,560 @@
+a.Habib Chatty
+b.Yousef Al-Othaimeen
+c.Iyad bin Amin Madani
+d.Hamid Algabid
+a.1974
+b.1971
+c.1977
+d.1973
+a.Ostrich
+b.Sarus Crane
+c.Trumpeter Swan
+d.Toco Toucan
+a.Hinduism
+b.Islam
+c.Buddhism
+d.Sikh
+a.Sound waves
+b.Gravity waves
+c.Radio waves
+d.Visible Light Waves
+a.N2
+b.NH3
+c.CH4
+d.CO2
+a.Statistical Awards
+b.De Morgan Medallists
+c.Abel Prize
+d.Field Prize
+a.Ayman Sadiq
+b.Salman Muqtadir
+c.Sajeeb Wajed Joy
+d.None
+a.Nikolai Ostrovsky
+b.Khaled Hossaini
+c.Charles Dickens
+d.Leo Tolstoy
+a.Paris
+b.Los Angeles
+c.New York
+d.London
+a.Mother Teresa
+b.Jane Addams
+c.Marie Curie
+d.None of the above
+a.Naf
+b.Sangu
+c.Padma
+d.Meghna
+a.Paragraph
+b.Word
+c.Sentence
+d.Statement
+a.Microsoft
+b.Facebook
+c.Apple
+d.Amazon
+a.Mexico
+b.USA
+c.Argentina
+d.Peru
+a.Board Integrated Output System
+b.Board Intrusion Offence System
+c.Boardbazar Incoming and Outgoing Services
+d.Basic Input Output System
+a.Beijing,China
+b.South Dakota,USA
+c.Moscow,Russia
+d.Istanbul,Turkey
+a.Planetary System
+b.Star System
+c.Star
+d.Comet
+a.Emma Watson
+b.Jennifer Lawrence
+c.Emma Stone
+d.Anne Hathaway
+a.Saudi Arabia
+b.Qatar
+c.Pakistan
+d.Yemen
+a.TV
+b.Food
+c.Girlfriend
+d.Room
+a.Photochemical smog
+b.Sulfurous Smog
+c.Industrial Smog
+d.Acid Fumes
+a.Nixon
+b.Kennedy
+c.Lincoln
+d.Johnson
+a.1
+b.2
+c.3
+d.4
+a.Britain’s Got Talent
+b.X Factor
+c.American Idol
+d.America’s Got Talent
+a.Field Prize
+b.Abel Prize
+c.DeMorgan Medallists
+d.Award of the London Mathematical Society
+a.Marco Polo
+b.Christopher Columbus
+c.Vasco Da Gama
+d.Abel Tasman
+a.Battle of Badr
+b.Battle of Uhud
+c.Battle of Khondok
+d.Battle of Medina
+a.Finding shapes in clouds
+b.Sleeping with your eyes open
+c.Breaking glass with your voice
+d.Swimming in freezing water
+a.Albert Einstein
+b.Isaac Newton
+c.Niels Bohr
+d.Enrico  Fermi
+a.Moth
+b.Roach
+c.Fly
+d.Japanese Beetle
+a.Burkina Faso
+b.Luxembourg
+c.Lesotho
+d.Mongolia
+a.Bull Dog
+b.Bull Moose
+c.Bull Elephant
+d.Bull Frog
+a.Ostrich
+b.Sarus Crane
+c.Trumpeter Swan
+d.Toco Toucan
+a.93
+b.83
+c.80
+d.73        
+a.Maurya
+b.Sen
+c.Gupta
+d.Pala
+a.South America
+b.Antarctica
+c.Australia
+d.Both a&b
+a.Demogorgon
+b.Sauron
+c.Godzilla 2.0
+d.The Thing
+a.Jupiter
+b.Uranus
+c.Neptune
+d.Mars
+a.Clown
+b.Navel
+c.Trees
+d.Being without mobile coverage
+a.Katy Perry
+b.Angelina Jolie
+c.Beyonce
+d.Lady Gaga
+a. 5 july ,2005
+b. 26 June ,2000
+c. 7 March,1997
+d. 13 August,2003
+a.Motijheel,Dhaka
+b.Rajsli,Rangamati
+c.Shyamnagar,Satkhira
+d.Begumganj, Noakhali
+a.Purple Revolution
+b.Orange revolution
+c.Rose Revolution
+d.Cider Revolution
+a.Martin Cooper
+b.Bill Mogaris
+c.Dennis Richard
+d.None 
+a.Ghana
+b.Equatorial Guinea
+c.Papua New Guinea
+d.Narau 
+a.Borax
+b.Sodium Thiosulphate
+c.Sodium Sulphate
+d.Ammonium Persulfate
+a.Alan Turing
+b.Jeff Bezos
+c.George Boole
+d.Charles Babbage
+a.Video Horizontal Standard
+b.Very High Speed
+c.Video Home System
+d.Voltage House Standard
+a.Tiktok
+b.Yahoo
+c.Facebook
+d.Google
+a.Largest  railway  station
+b.Highest  railway  station
+c.Longest  railway  station
+d.None
+a.Behavior of human beings
+b. Insects
+c. The origin and history of technical and scientific terms
+d. The forms of rocks
+a.Asia
+b. Africa
+c. Europe
+d. Australia
+a.Junagarh, Gujarat
+b.Diphu, Assam
+c. Kohima, Nagaland
+d.Gangtok, Sikkim
+a.Labour  party
+b.Nazi party
+c.Ku-Klux-Klan
+d.Democratic party
+a.Foreign FinanceCorporation
+b.Film Finance Corporation
+c.Federation of Football Council
+d.None of the above
+a.Dr. G. D. Bist
+b.J.R.D Tata
+c.J.M. Tagore
+d.Khudada Khan
+a.Horse racing
+b.Polo
+c.Shooting
+d.Snooker
+a.1967
+b.1968
+c.1958
+d.1922
+a.Developed the telescope
+b.Discovered four satellites of Jupiter
+c.Discovered that the movement of pendulum produces a regular time measurement
+d.All of the above
+a.States that no one to be imprisoned without a writ or warrant starting the charge against him
+b.Provided facilities to a prisoner to obtain either speedy trial or release in bail
+c.Safeguarded the personal liberties of the people against arbitrary imprisonment by the king’s order
+d.All of the above
+a.The infrared light kills bacteria in the body
+b.Resistance power increases
+c.The pigment cells in the skin get stimulated and produce a healthy tan
+d.The ultra violet rays convert skin oil into vitamin D
+a.USA
+b.Fiji
+c.India
+d.UK
+a.Letter of Credit (L/C)
+b.Laissez-faire
+c.Inflation
+d.None of the above
+a.1839
+b.1843
+c.1833
+d.1848
+a.Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and United Arab Emirates
+b.Second world nations
+c.Third world nations
+d.Fourth world nations
+a.China and Britain
+b.China and France
+c. China and Egypt
+d.China and Greek
+a.Selling of goods abroad at a price well below the production cost at home market price
+b.The process by which the supply of a manufacture’s product  remains low in the domestic market, which batches him better price
+c.Prohibited by regulations of GATT
+d.All of the above
+a.26 m x 14 m
+b.28 m x 15 m
+c.27 m x 16 m
+d.28 m x 16 m
+a.Tennis
+b.Volleyball
+c.Basketball
+d.Cricket
+a.May 8
+b.May 18
+c.June 8
+d.June 18
+a.Khajuraho temples
+b.Jama masjid
+c.Sun temple
+d.Mahabalipuram temples
+a.SOx
+b.NOx
+c.suspended particulate matter
+d.CO
+a.sliding to rolling
+b.rolling to sliding
+c.potential energy to kinetic energy
+d.dynamic to static
+a.SODAR (SOnic Detection And Ranging)
+b.Second Permanent Station 'Maitree'
+c.First permanent station 'Dakshin Gangotri'
+d.None of the above
+a.U Thant, Kurt Waldheim, Dag Hammarskjoeld, Trygve Lie.
+b.Trygve Lie, Dag Hammarskjoeld, U Thant, Kurt Waldheim.
+c.Trygve Lie, U Thant , Dag Hammarskjoeld, Kurt Waldheim.
+d.U Thant, Dag Hammarskjoeld, Trygve Lie, Kurt Waldheim.
+a.Taoism
+b.Judaism
+c.Zoroastrianism (Parsi Religion)
+d.Shintoism
+a.January 19, 1918
+b.May 30, 1918
+c.November 11, 1918
+d.February 15, 1918
+a.1940
+b.1941
+c.1942
+d.1943
+a.Chemistry in 1958 and 1980
+b.Physics in 1956 and 1972
+c.Chemistry in 1954 and Peace in 1962
+d.Physics in 1903 and Chemistry in 1911
+a.Visible light
+b.Infrared radiation
+c.X-rays and gamma rays
+d.Ultraviolet radiation
+a.altering human beings by changing their genetic components
+b.people of European origin
+c.different races of mankind
+d.genetic of plants
+a.Greek mathematician
+b.Contributor to the use of deductive principles of logic as the basis of geometry
+c.Propounded the geometrical theorems
+d.All of the above
+a.Birds
+b.Cell formation
+c.Relation between organisms and their environment
+d.Tissues
+a.Bacteria
+b.Mosquito
+c.Protozoa
+d.Virus
+a.Defence Research and Development Laboratary
+b.Department of Research and Development Laboratory
+c.Differential Research and Documentation Laboratary
+d.None of the above
+a.Fellow Research System
+b.Federation of Regulation Society
+c.Fellow of Royal Society
+d.None of the above
+a.Earth's gravitational pull
+b.Moon's gravitational pull
+c.Centripetal force due to the earth's rotation
+d.Pressure of the atmosphere
+a.low melting point
+b.high resistance
+c.high melting point
+d.low specific heat
+a.2000
+b.2001
+c.2002
+d.2003
+a.Cricket
+b.Football
+c.Hockey
+d.Volleyball
+a.New York, USA
+b.Hague (Netherlands)
+c.Geneva
+d.Paris
+a.1564 AD
+b.1798 AD
+c.1843 AD
+d.1901 AD
+a.kaleidoscope
+b.periscope
+c.spectroscope
+d.telescope
+a.the first Muslim president of India
+b.first vice president of India
+c.first president of Indian National Congress
+d.first speaker of Lok Sabha
+a.First World Nations
+b.Second World Nations
+c.Third World Nations
+d.Fourth World Nations
+a.Earthquakes
+b.Rainfall
+c.Ocean depth
+d.Sound intensity
+a.Aluminium
+b.Copper
+c.Lead
+d.Zinc
+a.all commodities that are limited in quantity as compared to their demand
+b.Commodities that is available according to their demand
+c.Commodities that is available more as compared to demand
+d.None of the above
+a.for coagulation of mud particles
+b.to kill bacteria
+c.to remove salts
+d.to remove gases
+a.1958 in Tokyo
+b.1962 in Jakarta
+c.1966 in Bangkok
+d.1970 in Bangkok
+a.a condition in the international market where nations do not impose customs duty or other taxes on import of goods
+b.market where the price of a commodity is determined by free play of the forces of supply and demand
+c.ports that are exempted from payment of customs duty on articles of commerce, primarily to encourage tourism
+d.None of the above
+a.Asia
+b.Africa
+c.Europe
+d.South America
+a.increased height
+b.retarded growth
+c.weakening of bones
+d.None of the above
+a.2000
+b.2001
+c.2002
+d.2003
+a.Rainy season
+b.Spring
+c.Winter
+d.Summer
+a.32
+b.34
+c.38
+d.42
+a.2 million
+b.5 million
+c.7 million
+d.10 million
+a.increases
+b.remains unchanged
+c.decreases
+d.may decrease or increase
+a.About 8 hours
+b.About 12 hours
+c.About 16 hours
+d.About 18 hours
+a.France and England
+b.Greek and Persian forces
+c.Civil war in England
+d.None of the above
+a.Sugar and paper
+b.Butter and paraffin wax
+c.Chalk and marble
+d.Charcoal and diamond
+a.leg bye
+b.bye
+c.bosie
+d.drive
+a.1950
+b.1960
+c.1965
+d.1980
+a.Gullet
+b.Large intestine
+c.Small intestine
+d.Stomach
+a.24 February
+b.10 December
+c.15 May
+d.21 July
+a.30 cubic cm
+b.60 cubic cm
+c.50 cubic cm
+d.80 cubic cm
+a.relative humidity
+b.purity of milk
+c.specific gravity of liquid
+d.None of the above
+a.900
+b.375
+c.981
+d.250
+a.Basketball
+b.Football
+c.Hockey
+d.Golf
+a.Australia
+b.Brazil
+c.India
+d.Russia
+a.Hertz
+b.Decibel
+c.Ohm
+d.Pascal
+a. Na
+b. K
+c. Ca
+d. Hg
+a.Brazil
+b.Argentina
+c.Germany
+d.Portugal
+a.IMF
+b.WTO
+c. UNESCO
+d. UNICEF
+a.Table tennis
+b.Lawn tennis
+c.Badminton
+d.Volleyball
+a.June 4
+b.June 5
+c.July 4
+d.July 5
+a.Kuwait
+b.Bahrain
+c.Iraq
+d.Saudi Arabia
+a.New York
+b.Vienna
+c.Paris
+d.Geneva
+a.Cochran
+b.Lancashire
+c.Locomotive
+d.Babcock and Wilcox
+a.Air preheater
+b.Superheater
+c.Economizer
+d.Steam separator
+a.Air preheater
+b.Superheater
+c.Evaporator
+d.None of the above
+a.David J. Brown
+b.Gene Amdahl
+c.Adam Dunkels
+d.Seymour Cray
+a.Ken Thompson
+b.Dennis Ritchie
+c.Robin Milner
+d.Frieder Nake
+a.1988
+b.1882
+c.1881
+d.1887
+a.Alan Perlis
+b.Jean E. Sammet
+c.Vint Cerf
+d.Steve Lawrence
+a.C
+b.C++
+c.COBOL
+d.FORTRAN
+a.MS Word
+b.Apple i Work
+c.Sun StarOffice
+d.WordStar
+a.Aaditya
+b.SAGA-220
+c.SahasraT
+d.HP Apollo 6000
+a.1988
+b.1989
+c.1990
+d.1991
